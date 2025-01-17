@@ -27,7 +27,6 @@ function RootLayout() {
     }
 
     const tokenDuration = getTokenDuration();
-    console.log(tokenDuration);
 
     setTimeout(() => {
       // no data, target logout action
